@@ -23,6 +23,8 @@ public class Harus {
           System.out.println("harus bisa");
         
         //ini untuk cabang dua
+          System.out.println("kumaha iye teh");
+          System.out.println("kumaha iki");
     }
     
 }
