@@ -25,6 +25,8 @@ public class Harus {
         //ini untuk cabang dua
           System.out.println("ne be terakhir");
           System.out.println("ne be terakhir");
+          
+          //halo rage cuma nambah komen genne bozz
     }
     
 }
