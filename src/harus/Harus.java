@@ -18,6 +18,9 @@ public class Harus {
         // TODO code application logic here
         
         //ini untuk cabang satu
+        System.out.println("harus bisa");
+         System.out.println("harus bisa");
+          System.out.println("harus bisa");
         
         //ini untuk cabang dua
     }
